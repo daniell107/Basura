@@ -13,4 +13,5 @@ MainWindow::~MainWindow()
     delete ui;
 
     //bjkjvhjhv
+    //chjj
 }
